@@ -1,0 +1,6 @@
+﻿  Number.cpp
+C:\Users\HP\Desktop\IT STEP\OOP\5 урок\Operators Projects\Operators Projects\Number.cpp(73,25): warning C4018: '>=': signed/unsigned mismatch
+  Source.cpp
+  Generating Code...
+C:\Users\HP\Desktop\IT STEP\OOP\5 урок\Operators Projects\Operators Projects\Number.cpp(55): warning C4172: returning address of local variable or temporary: oldNumber
+  Operators Projects.vcxproj -> C:\Users\HP\Desktop\IT STEP\OOP\5 урок\Operators Projects\Debug\Operators Projects.exe
